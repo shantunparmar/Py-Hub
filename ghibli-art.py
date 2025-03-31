@@ -77,3 +77,4 @@ if uploaded:
     print(f"Image saved as {output_filename} and download initiated!")
 else:
     print("No file was uploaded. Please run the cell again and upload an image.")
+
